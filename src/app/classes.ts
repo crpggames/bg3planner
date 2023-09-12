@@ -4346,7 +4346,7 @@ export const CLASSES = [
           name: 'Bonus Skill Proficiency',
           description: 'Choose one additional class skill in which to gain profiency.',
           skillSelection: ROGUE_SKILLS,
-          selectionCount: 1,
+          selectionCount: 2,
           selectSameAllowed: false
         },
         {
